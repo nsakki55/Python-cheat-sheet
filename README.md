@@ -16,7 +16,6 @@ TODO:jupyter notebookの項目をREADMEに移植する
 
 ## PyTorch
 [PyTorch](pytorch_cheet_sheet.ipynb)  
-[
 
 ## Keras
 [Keras](keras_cheet_sheet.ipynb)  
