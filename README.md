@@ -12,7 +12,9 @@ pythonはオブジェクト指向型の言語なので、処理を実行する�
 注) 複数のファイルに跨がるloggerを作成する場合は、呼び出し順に気をつける必要がある。  
 参考:https://www.mutable.work/entry/import-other-scripts#f-e3158b10
 
-## Numpy
+## Numpy  
+ 
+ 
 [Numpy](numpy_cheet_sheet.ipynb)  
 
 ## Pandas
