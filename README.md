@@ -10,11 +10,11 @@ TODO:jupyter notebookの項目をREADMEに移植する
 from yobidashi import shori のように、特定の関数のみを呼び出した場合でも、yobidashi.pyを実行じた挙動になる。  
 pythonはオブジェクト指向型の言語なので、処理を実行する関数と、機能を実行する関数は分離する流儀。  
 注) 複数のファイルに跨がるloggerを作成する場合は、呼び出し順に気をつける必要がある。  
-参考:https://www.mutable.work/entry/import-other-scripts#f-e3158b10
+[参考](https://www.mutable.work/entry/import-other-scripts#f-e3158b10)
 
 - 関数の値渡しと参照渡し  
 ミュータブルな変数を引数に入れて、関数内で値を変更すると、渡した変数の内容が関数外でも変わってしまうので注意  
-https://www.javadrive.jp/python/userfunc/index3.html  
+[参考](https://www.javadrive.jp/python/userfunc/index3.html)
 
 
 Udemyのコース  
